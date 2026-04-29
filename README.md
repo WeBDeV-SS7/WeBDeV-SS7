@@ -1,5 +1,5 @@
 ## Hi there 👋
-#🌟 About Me »
+# 🌟 About Me »
 Passionate developer focused on building scalable web applications using Python and Django.  <br>I enjoy turning ideas into real-world solutions with clean, efficient code and intuitive UI.  <br>Currently exploring full-stack development, API integration, and collaborative projects.  <br><br>🚀 Tech: Python | Django | HTML | CSS | Bootstrap | MySQL  <br>📌 Interests: Web Development, Problem Solving, Open Source  
 
 
